@@ -54,3 +54,9 @@ h2 {
 h2 {
     font-size: 1em;
 }
+
+a{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
